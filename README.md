@@ -3,13 +3,19 @@
 
 Due to the smoke event recently occurred in Seattle. I created this project to explore the change of wildfires since 1980, applying some of python toolboxes that I'm familiar with or I've been wanting to try out, including Pandas, Cartopy, Altair, Geopandas, and Folium. 
 
-It's a work in development, and I put together two blog posts about this topic already on my website: 
+It's a work in development, and I put together two blog posts about this topic on my website: 
 
 * https://fischcheng.github.io/2018/08/22/wildfire-smoke-is-choking-seattle-visualizing-using-altair/
 
 * https://fischcheng.github.io/2018/08/16/wildfires-and-climate-change/
 
 After surveying many journal articles and websites. I located several links and data sources that might be useful if you are also interested in this topic:
+
+<iframe id="altairchart"
+    src="https://fischcheng.github.io/img/AQI_0810_0822_24hrs.html" width=850 height=400 
+    scrolling="no" frameborder="no">
+</iframe>
+
 
 #### Data 
 

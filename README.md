@@ -11,11 +11,6 @@ It's a work in development, and I put together two blog posts about this topic o
 
 After surveying many journal articles and websites. I located several links and data sources that might be useful if you are also interested in this topic:
 
-<iframe id="altairchart"
-    src="https://fischcheng.github.io/img/AQI_0810_0822_24hrs.html" width=850 height=400 
-    scrolling="no" frameborder="no">
-</iframe>
-
 
 #### Data 
 

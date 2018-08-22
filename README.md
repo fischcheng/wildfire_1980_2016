@@ -3,7 +3,7 @@
 
 Due to the smoke event recently occurred in Seattle. I created this project to explore the change of wildfires since 1980, applying some of python toolboxes that I'm familiar with or I've been wanting to try out, including Pandas, Cartopy, Altair, Geopandas, and Folium. 
 
-It's a work in development, and I put together two blog posts about this topic already on my website: 
+It's a work in development, and I put together two blog posts about this topic on my website: 
 
 * https://fischcheng.github.io/2018/08/22/wildfire-smoke-is-choking-seattle-visualizing-using-altair/
 
